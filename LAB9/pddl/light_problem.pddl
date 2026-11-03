@@ -1,0 +1,6 @@
+; light_problem.pddl - Унтарсан нэг чийдэнг асаах бодлого (Алхам 1)
+(define (problem light-1)
+  (:domain light)
+  (:objects lamp)
+  (:init (off lamp))
+  (:goal (on lamp)))

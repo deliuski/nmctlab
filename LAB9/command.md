@@ -1,0 +1,1 @@
+..\..\.venv\Scripts\pyperplan.exe light_domain.pddl light_problem.pddl
