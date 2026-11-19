@@ -1,0 +1,507 @@
+label,text
+ham,Library book due - Your book on database is due on Tuesday. Please return or renew it at the front desk.
+ham,Dinner tonight - Mom said dinner is at 8:30 tonight. Can you pick up some bread on your way home?
+spam,"for - Special buy free. phone, now http://bit.ly/a1b2 unsubscribe below Let me know"
+ham,Dinner tonight - Mom said dinner is at 4:45 pm tonight. Can you pick up some bread on your way home? See you there
+spam,winner winner winner offer offer - free free
+spam,"Exclusive deal just for you - Special offer, buy one get one free. Win a free phone, click now http://promo-deals.xyz/c unsubscribe below"
+ham,"Project update - We finished the machine learning data cleaning today. Next step is to train the model, I will share the notebook tomorrow. No need to worry about the password issue."
+ham,Dinner tonight - Mom said dinner is at 12:15 tonight. Can you pick up some bread on your way home?
+ham,Draft attached - Please find the draft of our networking report attached. Send me your edits by Thursday. No need to worry about the order issue.
+ham,Exam schedule - The calculus exam will be held on Thursday at 10:00 in room 114. Please arrive ten minutes early.
+ham,"Project update - We finished the machine learning data cleaning today. Next step is to train the model, I will share the notebook tomorrow."
+ham,Seminar invitation - You are invited to the web design seminar on Tuesday at 2:00 pm. Coffee will be served in room B12. Best regards
+ham,FREE gift card - Claim your FREE $50 gift card today. No purchase necessary. Click here http://promo-deals.xyz/c
+ham,Draft attached - Please find the draft of our data mining report attached. Send me your edits by Thursday. The password thing is sorted now.
+ham,Draft attached - Please find the draft of our networking report attached. Send me your edits by Tuesday.
+ham,Group presentation - Our web design presentation is on Friday. Let us meet at 12:15 to practice once more. Thanks
+ham,Dinner tonight - Mom said dinner is at 2:00 pm tonight. Can you pick up some bread on your way home?
+spam,"YOU HAVE WON $9,000,000!!! - Congratulations winner! Click the link now to claim your prize before it expires http://promo-deals.xyz/c"
+ham,Draft attached - Please find the draft of our networking report attached. Send me your edits by Wednesday.
+spam,FREE card - FREE $25 gift No necessary. Click http://tinyurl.com/k9z Regards
+spam,"Re: your payment - Your credit card was charged $8,100. If this was not you, confirm your account details now http://promo-deals.xyz/c"
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Wednesday. No need to worry about the offer issue.
+ham,Lunch on Friday? - Are you free for lunch around 10:00? I was thinking of the cafe near the library.
+ham,Final notice - Your package could not be delivered. Pay a small fee at http://free-gift.top/go to release your free item
+spam,"Re: your payment - Your credit card was charged $6,250. If this was not you, confirm your account details now http://tinyurl.com/k9z"
+ham,"Project update - We finished the web design data cleaning today. Next step is to train the model, I will share the notebook tomorrow."
+ham,"Meeting moved to 4:45 pm - Hi team, the statistics project meeting is now at 4:45 pm on Monday in room 114. Please bring your notes."
+ham,Reminder: office hours - My office hours this week are on Thursday from 4:45 pm. Bring your questions about the database homework.
+ham,Thank you - Thanks for your help with the database homework yesterday. It really helped me understand the topic. The order thing is sorted now.
+spam,"Re: your payment - Your credit card was charged $5,100. If this was not you, confirm your account details now http://free-gift.top/go"
+spam,"YOU HAVE WON $3,000,000!!! - Congratulations winner! Click the link now to claim your prize before it expires http://bit.ly/a1b2"
+spam,"Meeting moved to 4:45 pm - Hi team, the database project meeting is now at 4:45 pm on Wednesday in room B12. Please bring your notes. Let me know About the offer question, we can talk later."
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Monday.
+spam,"Meeting moved to 4:45 pm - Hi team, the networking project meeting is now at 4:45 pm on Tuesday in room B12. Please bring your notes. About the discount question, we can talk later."
+spam,"Double your bitcoin - Invest $800 today and get guaranteed returns. Act now, limited spots, click http://win-prize.biz/x"
+spam,"URGENT: account suspended - Your bank account has been suspended. Verify your password immediately at http://win-prize.biz/x or lose access Hurry, this offer ends today"
+ham,Library book due - Your book on data mining is due on Monday. Please return or renew it at the front desk. The winner thing is sorted now.
+ham,"Group presentation - Our statistics presentation is on Monday. Let us meet at 6:30 pm to practice once more. About the offer question, we can talk later."
+ham,Seminar invitation - You are invited to the calculus seminar on Thursday at 12:15. Coffee will be served in room 114.
+ham,"Meeting moved to 4:45 pm - Hi team, the machine learning project meeting is now at 4:45 pm on Monday in room 305. Please bring your notes."
+ham,"Team schedule for Friday - Here is the plan for Friday: standup at 4:45 pm, code review after lunch, and a short demo at the end of the day."
+ham,Reminder: office hours - My office hours this week are on Friday from 8:30. Bring your questions about the networking homework.
+ham,Exam schedule - The statistics exam will be held on Friday at 10:00 in room B12. Please arrive ten minutes early.
+ham,Lunch on Monday? - Are you free for lunch around 10:00? I was thinking of the cafe near the library. Let me know The limited thing is sorted now.
+ham,Reminder: office hours - My office hours this week are on Friday from 8:30. Bring your questions about the machine learning homework.
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Tuesday. Best regards No need to worry about the click issue.
+ham,Seminar invitation - You are invited to the statistics seminar on Monday at 4:45 pm. Coffee will be served in room 201.
+ham,Exam schedule - The database exam will be held on Wednesday at 6:30 pm in room 305. Please arrive ten minutes early.
+ham,Exam schedule - The web design exam will be held on Wednesday at 10:00 in room 305. Please arrive ten minutes early.
+spam,"Double your and get returns. Act now, limited spots, click http://bit.ly/a1b2 Regards"
+ham,"Team schedule for Thursday - Here is the plan for Thursday: standup at 2:00 pm, code review after lunch, and a short demo at the end of the day."
+ham,"Late for class - Sorry, I will be late to the database class today because of the bus. Please save me a seat."
+ham,Lunch on Thursday? - Are you free for lunch around 2:00 pm? I was thinking of the cafe near the library. No need to worry about the limited issue.
+ham,"Team schedule for Wednesday - Here is the plan for Wednesday: standup at 4:45 pm, code review after lunch, and a short demo at the end of the day."
+ham,"Team schedule for Friday - Here is the plan for Friday: standup at 8:30, code review after lunch, and a short demo at the end of the day."
+ham,Lunch on Monday? - Are you free for lunch around 4:45 pm? I was thinking of the cafe near the library.
+spam,"Lose weight fast - Amazing new pill, lose 10 kg in a week, guaranteed. Order today and get 50% off http://promo-deals.xyz/c"
+ham,Exam schedule - The machine learning exam will be held on Monday at 10:00 in room 201. Please arrive ten minutes early.
+ham,"Team schedule for Tuesday - Here is the plan for Tuesday: standup at 2:00 pm, code review after lunch, and a short demo at the end of the day. Best regards"
+ham,"Meeting moved to 8:30 - Hi team, the web design project meeting is now at 8:30 on Friday in room 114. Please bring your notes."
+spam,"Lose weight fast - Amazing new pill, lose 10 kg in a week, guaranteed. Order today and get 90% off http://win-prize.biz/x"
+ham,Final notice - Your package could not be delivered. Pay a small fee at http://promo-deals.xyz/c to release your free item
+ham,Notes from today - Attached are my notes from the database lecture. Let me know if I missed anything. See you there
+ham,"Project update - We finished the data mining data cleaning today. Next step is to train the model, I will share the notebook tomorrow. No need to worry about the winner issue."
+ham,Thank you - Thanks for your help with the database homework yesterday. It really helped me understand the topic.
+spam,"Double your bitcoin - Invest $300 today and get guaranteed returns. Act now, limited spots, click http://win-prize.biz/x"
+spam,"loan today - Bad No problem! loan to $5,000 approved now http://bit.ly/a1b2 Thanks"
+spam,"Exclusive deal just for you - Special offer, buy one get one free. Win a free phone, click now http://bit.ly/a1b2 unsubscribe below"
+ham,"Team schedule for Monday - Here is the plan for Monday: standup at 10:00, code review after lunch, and a short demo at the end of the day. Let me know The discount thing is sorted now."
+ham,Draft attached - Please find the draft of our statistics report attached. Send me your edits by Monday.
+ham,Thank you - Thanks for your help with the statistics homework yesterday. It really helped me understand the topic.
+ham,"Late for class - Sorry, I will be late to the web design class today because of the bus. Please save me a seat. Cheers"
+ham,Seminar invitation - You are invited to the statistics seminar on Tuesday at 2:00 pm. Coffee will be served in room A7.
+spam,"YOU HAVE WON $1,000,000!!! - Congratulations winner! Click the link now to claim your prize before it expires http://win-prize.biz/x"
+ham,Draft attached - Please find the draft of our calculus report attached. Send me your edits by Thursday.
+spam,"Double your bitcoin - Invest $100 get returns. now, limited spots, click http://promo-deals.xyz/c Please review"
+ham,Group presentation - Our data mining presentation is on Tuesday. Let us meet at 8:30 to practice once more.
+ham,Dinner tonight - Mom said dinner is at 2:00 pm tonight. Can you pick up some bread on your way home?
+spam,10% OFF everything - Limited time offer! Buy cheap watches and pills at 10% discount. Order now http://bit.ly/a1b2
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the web design script when you have time?
+ham,Thank you - Thanks for your help with the web design homework yesterday. It really helped me understand the topic. No need to worry about the account issue.
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the database script when you have time?
+ham,"Lunch on Wednesday? - Are you free for lunch around 10:00? I was thinking of the cafe near the library. See you there About the discount question, we can talk later."
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the networking script when you have time?
+spam,"Double your bitcoin - Invest $300 today and get guaranteed returns. Act now, limited spots, click http://win-prize.biz/x"
+ham,"Team schedule for Monday - Here is the plan for Monday: standup at 12:15, code review after lunch, and a short demo at the end of the day."
+ham,"Late for class - Sorry, I will be late to the web design class today because of the bus. Please save me a seat."
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Wednesday. Let me know
+ham,Lunch on Monday? - Are you free for lunch around 8:30? I was thinking of the cafe near the library.
+ham,Notes from today - Attached are my notes from the networking lecture. Let me know if I missed anything. The limited thing is sorted now.
+ham,"Late for class - Sorry, I will be late to the calculus class today because of the bus. Please save me a seat."
+ham,"Re: your payment - Your credit card was charged $8,100. If this was not you, confirm your account details now http://free-gift.top/go"
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the statistics script when you have time?
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the data mining script when you have time?
+ham,Exam schedule - The web design exam will be held on Monday at 2:00 pm in room 201. Please arrive ten minutes early.
+spam,Make $900 a day from home - Work from home and earn easy money. No experience needed. Sign up now http://promo-deals.xyz/c
+ham,URGENT: Your bank account has been suspended. Verify password at http://free-gift.top/go or access Let me know
+ham,Thank you - Thanks for your help with the calculus homework yesterday. It really helped me understand the topic. The discount thing is sorted now.
+spam,Make $100 a day from home - Work from home and earn easy money. No experience needed. Sign up now http://bit.ly/a1b2
+spam,"Lose - Amazing new pill, lose kg Order and off http://bit.ly/a1b2 Let me know"
+spam,"Lose weight fast - Amazing 10 a week, 10% off http://bit.ly/a1b2 See attached"
+ham,Lunch on Wednesday? - Are you free for lunch around 6:30 pm? I was thinking of the cafe near the library.
+ham,"Assignment 1 feedback - Hi, I have marked your database assignment. Please see me after class on Thursday if you have questions."
+ham,Draft attached - Please find the draft of our database report attached. Send me your edits by Friday. Cheers
+spam,FREE gift card - Claim your FREE $50 gift card today. No purchase necessary. Click here http://tinyurl.com/k9z
+ham,"Team schedule for Wednesday - Here is the plan for Wednesday: standup at 2:00 pm, code review after lunch, and a short demo at the end of the day."
+spam,FREE gift card - Claim your FREE $90 gift card today. No purchase necessary. Click here http://promo-deals.xyz/c
+ham,"Team schedule for Tuesday - Here is the plan for Tuesday: standup at 12:15, code review after lunch, and a short demo at the end of the day."
+ham,"Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Tuesday. About the click question, we can talk later."
+spam,"Lose weight fast - Amazing new pill, lose 10 kg in a week, guaranteed. Order today and get 50% off http://free-gift.top/go"
+spam,"YOU $5,000,000!!! winner! Click the now to before expires http://bit.ly/a1b2 Regards"
+ham,"Meeting moved to 10:00 - Hi team, the networking project meeting is now at 10:00 on Monday in room 201. Please bring your notes. The account thing is sorted now."
+spam,"YOU HAVE WON $6,000,000!!! - Congratulations winner! the to your before it expires http://tinyurl.com/k9z Let me know"
+ham,"Project update - We finished the data mining data cleaning today. Next step is to train the model, I will share the notebook tomorrow."
+ham,Lunch on Tuesday? - Are you free for lunch around 2:00 pm? I was thinking of the cafe near the library.
+spam,Dinner tonight - Mom said dinner is at 4:45 pm tonight. Can you pick up some bread on your way home?
+spam,Lunch on Thursday? - Are you free for lunch around 8:30? I was thinking of the cafe near the library. Cheers
+ham,Dinner tonight - Mom said dinner is at 8:30 tonight. Can you pick up some bread on your way home?
+spam,10% OFF everything - Limited Buy cheap watches and pills 10% Order now http://win-prize.biz/x Please review
+spam,FREE gift card - Claim your FREE $70 gift card today. No purchase necessary. Click here http://tinyurl.com/k9z
+spam,"Lose weight fast - Amazing new pill, lose 10 kg in a week, guaranteed. Order today and get 50% off http://promo-deals.xyz/c"
+ham,Exam schedule - The calculus exam will be held on Monday at 10:00 in room B12. Please arrive ten minutes early. Let me know
+spam,"Re: payment - credit card was charged $8,900. was not you, confirm details now http://promo-deals.xyz/c Please review"
+spam,"Congratulations, you are selected - You are our lucky winner of a free vacation. Reply with your details to claim your free trip"
+ham,"Dinner tonight - Mom said dinner is at 8:30 tonight. Can you pick up some bread on your way home? Best regards About the password question, we can talk later."
+spam,"Meeting moved to 12:15 - Hi team, the machine learning project meeting is now at 12:15 on Thursday in room A7. Please bring your notes."
+ham,"Project update - We finished the statistics data cleaning today. Next step is to train the model, I will share the notebook tomorrow. Let me know No need to worry about the winner issue."
+ham,"Team schedule for Friday - Here is the plan for Friday: standup at 6:30 pm, code review after lunch, and a short demo at the end of the day."
+spam,"Get a loan today - Bad credit? No problem! Instant cash loan up to $1,000 approved in minutes. Apply now http://tinyurl.com/k9z"
+ham,"Library book due - Your book on web design is due on Tuesday. Please return or renew it at the front desk. About the account question, we can talk later."
+ham,Library book due - Your book on machine learning is due on Monday. Please return or renew it at the front desk.
+spam,URGENT: account bank account been suspended. Verify immediately at http://tinyurl.com/k9z lose Regards
+spam,FREE gift card - Claim your FREE $25 gift card today. No purchase necessary. Click here http://tinyurl.com/k9z
+spam,"YOU HAVE WON $9,000,000!!! - Congratulations winner! Click the link now to claim your prize before it expires http://promo-deals.xyz/c"
+spam,"Get a loan today - Bad credit? No problem! Instant cash loan up to $5,000 approved in minutes. Apply now http://free-gift.top/go Hurry, this offer ends today"
+ham,Library book due - Your book on machine learning is due on Wednesday. Please return or renew it at the front desk.
+spam,Notes from today - Attached are my notes from the networking lecture. Let me know if I missed anything.
+spam,"Need cash? - Apply for an instant loan now, call 555-0199"
+ham,"Meeting moved to 10:00 - Hi team, the machine learning project meeting is now at 10:00 on Friday in room 201. Please bring your notes. See you there"
+ham,"Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Friday. About the password question, we can talk later."
+ham,Reminder: office hours - My office hours this week are on Thursday from 10:00. Bring your questions about the data mining homework.
+spam,"Congratulations, - are our lucky winner of a free vacation. Reply your details to claim trip Thanks"
+ham,Lunch on Thursday? - Are you free for lunch around 2:00 pm? I was thinking of the cafe near the library.
+ham,"Draft attached - Please find the draft of our networking report attached. Send me your edits by Thursday. About the winner question, we can talk later."
+spam,"Get a loan today - Bad credit? No problem! Instant cash loan up to $2,000 approved in minutes. Apply now http://free-gift.top/go"
+ham,Reminder: office hours - My office hours this week are on Wednesday from 8:30. Bring your questions about the statistics homework.
+spam,"Double your bitcoin - Invest $600 today and get guaranteed returns. Act now, limited spots, click http://tinyurl.com/k9z"
+spam,"Assignment 8 feedback - Hi, I have marked your data mining assignment. Please see me after class on Tuesday if you have questions. No need to worry about the discount issue."
+ham,"Late for class - Sorry, I will be late to the data mining class today because of the bus. Please save me a seat."
+spam,Make $500 a day from home - Work from home and earn easy money. No experience needed. Sign up now http://free-gift.top/go
+ham,Thank you - Thanks for your help with the calculus homework yesterday. It really helped me understand the topic.
+spam,"Re: your payment - Your credit card was charged $7,900. If this was not you, confirm your account details now http://free-gift.top/go"
+ham,"Late for class - Sorry, I will be late to the machine learning class today because of the bus. Please save me a seat. No need to worry about the free issue."
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Thursday.
+ham,"Assignment 6 feedback - Hi, I have marked your statistics assignment. Please see me after class on Tuesday if you have questions."
+ham,Notes from today - Attached are my notes from the calculus lecture. Let me know if I missed anything.
+spam,"Lose weight fast - Amazing new pill, lose 10 kg in a week, guaranteed. Order today and get 70% off http://free-gift.top/go"
+spam,"Your prize is waiting - Claim your free prize now, click the link below"
+ham,Group presentation - Our data mining presentation is on Friday. Let us meet at 8:30 to practice once more.
+spam,Get loan today - No problem! Instant loan up approved in minutes. now http://tinyurl.com/k9z Please review
+ham,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Tuesday.
+ham,Library book due - Your book on networking is due on Thursday. Please return or renew it at the front desk.
+spam,"your bitcoin Invest $100 today and get returns. now, limited spots, click http://win-prize.biz/x Let me know"
+ham,Exam schedule - The web design exam will be held on Friday at 6:30 pm in room 305. Please arrive ten minutes early.
+ham,Notes from today - Attached are my notes from the machine learning lecture. Let me know if I missed anything.
+ham,Lunch on Wednesday? - Are you free for lunch around 6:30 pm? I was thinking of the cafe near the library.
+ham,"Team schedule for Tuesday - Here is the plan for Tuesday: standup at 6:30 pm, code review after lunch, and a short demo at the end of the day. Cheers"
+ham,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Monday. The winner thing is sorted now.
+spam,"Assignment 5 feedback - Hi, I have marked your database assignment. Please see me after class on Friday if you have questions."
+spam,"Double your bitcoin - Invest $200 today guaranteed Act now, click http://tinyurl.com/k9z Let me know"
+ham,Group presentation - Our calculus presentation is on Thursday. Let us meet at 2:00 pm to practice once more.
+ham,"Late for class - Sorry, I will be late to the statistics class today because of the bus. Please save me a seat."
+spam,"Double - Invest today and get Act limited spots, http://tinyurl.com/k9z See attached"
+ham,"Team schedule for Wednesday - Here is the plan for Wednesday: standup at 8:30, code review after lunch, and a short demo at the end of the day. About the discount question, we can talk later."
+ham,"Late for class - Sorry, I will be late to the web design class today because of the bus. Please save me a seat."
+spam,"Re: your payment - Your credit card was charged $7,500. If this was not you, confirm your account details now http://bit.ly/a1b2"
+spam,"Exclusive deal just for you - Special offer, buy one get one free. Win a free phone, click now http://win-prize.biz/x unsubscribe below Hurry, this offer ends today"
+ham,"Assignment 5 feedback - Hi, I have marked your data mining assignment. Please see me after class on Wednesday if you have questions."
+ham,Dinner tonight - Mom said dinner is at 4:45 pm tonight. Can you pick up some bread on your way home? Thanks
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the statistics script when you have time?
+ham,"Team schedule for Tuesday - Here is the plan for Tuesday: standup at 12:15, code review after lunch, and a short demo at the end of the day."
+spam,25% OFF everything - Limited time offer! Buy cheap watches and pills at 25% discount. Order now http://win-prize.biz/x
+spam,Make $700 a home - from home and money. experience needed. up now http://promo-deals.xyz/c See attached
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Monday.
+spam,Group presentation - Our web design presentation is on Friday. Let us meet at 8:30 to practice once more. Thanks
+spam,"Lose weight fast - Amazing new pill, lose 10 kg in a week, guaranteed. Order today and get 70% off http://win-prize.biz/x"
+ham,"Congratulations, you are selected - You our lucky winner of free vacation. your your free trip Please review"
+ham,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Friday. Let me know
+spam,Notes from today - Attached are my notes from the web design lecture. Let me know if I missed anything. No need to worry about the urgent issue.
+ham,"Meeting moved to 8:30 - Hi team, the database project meeting is now at 8:30 on Thursday in room 201. Please bring your notes. About the account question, we can talk later."
+ham,Thank you - Thanks for your help with the networking homework yesterday. It really helped me understand the topic.
+spam,"suspended account has suspended. Verify password immediately http://free-gift.top/go or lose Hurry, this today See attached"
+spam,Dinner tonight - Mom said dinner is at 4:45 pm tonight. Can you pick up some bread on your way home? No need to worry about the click issue.
+ham,Seminar invitation - You are invited to the machine learning seminar on Friday at 4:45 pm. Coffee will be served in room B12. Thanks
+ham,"Lose fast new pill, 10 kg a week, guaranteed. Order today and http://promo-deals.xyz/c Thanks"
+ham,"Assignment 2 feedback - Hi, I have marked your data mining assignment. Please see me after class on Wednesday if you have questions."
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the calculus script when you have time?
+ham,Exam schedule - The calculus exam will be held on Monday at 2:00 pm in room 305. Please arrive ten minutes early.
+ham,"Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Wednesday. About the password question, we can talk later."
+ham,Group presentation - Our data mining presentation is on Monday. Let us meet at 8:30 to practice once more. The password thing is sorted now.
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the machine learning script when you have time?
+ham,Seminar invitation - You are invited to the calculus seminar on Friday at 4:45 pm. Coffee will be served in room 305. The order thing is sorted now.
+spam,"Get a loan today - Bad credit? No problem! Instant cash loan up to $9,000 approved in minutes. Apply now http://free-gift.top/go"
+ham,"Assignment 3 feedback - Hi, I have marked your web design assignment. Please see me after class on Tuesday if you have questions. Best regards"
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Thursday.
+ham,Lunch on Friday? - Are you free for lunch around 4:45 pm? I was thinking of the cafe near the library.
+ham,Thank you - Thanks for your help with the web design homework yesterday. It really helped me understand the topic.
+spam,Reminder: office hours - My office hours this week are on Tuesday from 10:00. Bring your questions about the networking homework.
+ham,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Monday. Best regards
+ham,"Team schedule for Tuesday - Here is the plan for Tuesday: standup at 12:15, code review after lunch, and a short demo at the end of the day. No need to worry about the account issue."
+ham,"Late for class - Sorry, I will be late to the database class today because of the bus. Please save me a seat. The click thing is sorted now."
+ham,"Project update - We finished the web design data cleaning today. Next step is to train the model, I will share the notebook tomorrow."
+ham,"Meeting moved to 6:30 pm - Hi team, the database project meeting is now at 6:30 pm on Thursday in room 305. Please bring your notes."
+ham,Dinner tonight - Mom said dinner is at 12:15 tonight. Can you pick up some bread on your way home?
+ham,Notes from today - Attached are my notes from the data mining lecture. Let me know if I missed anything.
+spam,"Re: payment - credit card was $8,900. not confirm details now http://promo-deals.xyz/c See attached"
+spam,"YOU HAVE WON $2,000,000!!! - Congratulations winner! Click the link now to claim your prize before it expires http://bit.ly/a1b2"
+ham,Seminar invitation - You are invited to the web design seminar on Wednesday at 2:00 pm. Coffee will be served in room 201.
+ham,"Draft attached - Please find the draft of our data mining report attached. Send me your edits by Wednesday. About the password question, we can talk later."
+ham,Dinner tonight - Mom said dinner is at 8:30 tonight. Can you pick up some bread on your way home? Cheers The password thing is sorted now.
+spam,"FREE gift card - Claim your FREE $10 gift card today. No purchase necessary. Click here http://win-prize.biz/x Hurry, this offer ends today"
+spam,"Exclusive deal just for you - Special offer, buy one get one free. Win a free phone, click now http://win-prize.biz/x unsubscribe below"
+ham,"Project update - We finished the database data cleaning today. Next step is to train the model, I will share the notebook tomorrow. Thanks The account thing is sorted now."
+ham,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Wednesday.
+spam,Make $200 day from home - Work home earn easy money. needed. up now http://tinyurl.com/k9z See attached
+spam,"Exclusive deal just for you - Special offer, buy one get one free. Win a free phone, click now http://tinyurl.com/k9z unsubscribe below"
+ham,Library book due - Your book on calculus is due on Monday. Please return or renew it at the front desk.
+ham,Lunch on Friday? - Are you free for lunch around 12:15? I was thinking of the cafe near the library.
+ham,Reminder: office hours - My office hours this week are on Monday from 12:15. Bring your questions about the machine learning homework. The limited thing is sorted now.
+spam,"Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Monday. About the password question, we can talk later."
+ham,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Tuesday.
+spam,"Double your bitcoin - Invest $700 today and get guaranteed returns. Act now, limited spots, click http://bit.ly/a1b2 Hurry, this offer ends today"
+spam,50% OFF everything - Limited time offer! Buy cheap watches and pills at 50% discount. Order now http://promo-deals.xyz/c
+spam,Final notice - Your package could not be delivered. Pay a small fee at http://promo-deals.xyz/c to release your free item
+ham,"Meeting moved to 2:00 pm - Hi team, the machine learning project meeting is now at 2:00 pm on Tuesday in room 114. Please bring your notes."
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Thursday.
+spam,"Double your bitcoin - Invest $700 today and get guaranteed returns. Act now, limited spots, click http://promo-deals.xyz/c"
+ham,Dinner tonight - Mom said dinner is at 10:00 tonight. Can you pick up some bread on your way home?
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Tuesday.
+spam,"Team schedule for Wednesday - Here is the plan for Wednesday: standup at 6:30 pm, code review after lunch, and a short demo at the end of the day. About the offer question, we can talk later."
+ham,Lunch on Wednesday? - Are you free for lunch around 8:30? I was thinking of the cafe near the library. Cheers
+spam,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Thursday. The winner thing is sorted now.
+ham,Draft attached - Please find the draft of our calculus report attached. Send me your edits by Tuesday. Let me know
+ham,Library book due - Your book on statistics is due on Friday. Please return or renew it at the front desk.
+ham,Notes from today - Attached are my notes from the statistics lecture. Let me know if I missed anything. No need to worry about the urgent issue.
+spam,FREE gift card - Claim your FREE $50 gift card today. No purchase necessary. Click here http://bit.ly/a1b2
+ham,"Late for class - Sorry, I will be late to the web design class today because of the bus. Please save me a seat. About the password question, we can talk later."
+ham,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Thursday.
+ham,"Assignment 9 feedback - Hi, I have marked your database assignment. Please see me after class on Thursday if you have questions. The urgent thing is sorted now."
+ham,Lunch on Tuesday? - Are you free for lunch around 6:30 pm? I was thinking of the cafe near the library.
+ham,"Project update - We finished the database data cleaning today. Next step is to train the model, I will share the notebook tomorrow."
+ham,Draft attached - Please find the draft of our machine learning report attached. Send me your edits by Wednesday. The click thing is sorted now.
+spam,"Lose weight fast - Amazing new pill, lose 10 kg in a week, guaranteed. Order today and get 25% off http://tinyurl.com/k9z"
+spam,FREE gift card - Claim your FREE $90 gift card today. No purchase necessary. Click here http://bit.ly/a1b2
+ham,Group presentation - Our statistics presentation is on Monday. Let us meet at 4:45 pm to practice once more. The free thing is sorted now.
+ham,"Notes from today - Attached are my notes from the web design lecture. Let me know if I missed anything. About the account question, we can talk later."
+spam,"Seminar invitation - You are invited to the networking seminar on Friday at 6:30 pm. Coffee will be served in room 114. About the free question, we can talk later."
+ham,Lunch on Wednesday? - Are you free for lunch around 6:30 pm? I was thinking of the cafe near the library.
+ham,"Meeting moved to 2:00 pm - Hi team, the calculus project meeting is now at 2:00 pm on Friday in room 201. Please bring your notes. Thanks"
+ham,Lunch on Monday? - Are you free for lunch around 2:00 pm? I was thinking of the cafe near the library.
+spam,"Get a loan today - Bad credit? No problem! Instant cash loan up to $5,000 approved in minutes. Apply now http://free-gift.top/go"
+spam,"Make $200 a day from home - Work from home and earn easy money. No experience needed. Sign up now http://bit.ly/a1b2 Hurry, this offer ends today"
+ham,"Reminder: office hours - My office hours this week are on Monday from 8:30. Bring your questions about the data mining homework. About the discount question, we can talk later."
+ham,Thank you - Thanks for your help with the networking homework yesterday. It really helped me understand the topic. No need to worry about the limited issue.
+ham,Dinner tonight - Mom said dinner is at 8:30 tonight. Can you pick up some bread on your way home? Cheers
+ham,Library book due - Your book on machine learning is due on Friday. Please return or renew it at the front desk.
+ham,"Draft attached - Please find the draft of our data mining report attached. Send me your edits by Wednesday. See you there About the urgent question, we can talk later."
+ham,Notes from today - Attached are my notes from the machine learning lecture. Let me know if I missed anything. Let me know No need to worry about the order issue.
+spam,URGENT: account suspended - Your bank account has been suspended. Verify your password immediately at http://win-prize.biz/x or lose access
+ham,Reminder: office hours - My office hours this week are on Tuesday from 10:00. Bring your questions about the data mining homework.
+ham,"Assignment 4 feedback - Hi, I have marked your statistics assignment. Please see me after class on Wednesday if you have questions. About the winner question, we can talk later."
+spam,- Claim your FREE card today. No Click here http://bit.ly/a1b2 Thanks
+ham,"Project update - We finished the web design data cleaning today. Next step is to train the model, I will share the notebook tomorrow."
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the machine learning script when you have time? Thanks
+ham,Notes from today - Attached are my notes from the web design lecture. Let me know if I missed anything. Thanks
+ham,Draft attached - Please find the draft of our machine learning report attached. Send me your edits by Thursday. Cheers The account thing is sorted now.
+spam,"Exclusive deal just for you - Special offer, buy one get one free. Win a free phone, click now http://win-prize.biz/x unsubscribe below"
+spam,"Congratulations, are - You lucky winner of a free vacation. Reply your details to trip Hurry, offer ends Let me know"
+spam,"Re: your payment - Your credit card was charged $9,900. If this was not you, confirm your account details now http://free-gift.top/go"
+ham,Dinner tonight - Mom said dinner is at 2:00 pm tonight. Can you pick up some bread on your way home? The winner thing is sorted now.
+spam,"Congratulations, you are selected - You are our lucky winner of a free vacation. Reply with your details to claim your free trip Hurry, this offer ends today"
+spam,"FREE - Claim your FREE gift No necessary. here http://bit.ly/a1b2 Hurry, this offer today Regards"
+ham,"Re: your payment - Your credit was charged $4,250. If this was not you, confirm account details now http://free-gift.top/go Thanks"
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Monday. Let me know
+ham,Reminder: office hours - My office hours this week are on Monday from 2:00 pm. Bring your questions about the calculus homework. No need to worry about the order issue.
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the networking script when you have time? Best regards
+spam,90% OFF everything - Limited time offer! Buy cheap watches and pills at 90% discount. Order now http://promo-deals.xyz/c
+spam,"Congratulations, you are selected - You are our lucky winner of a free vacation. Reply with your details to claim your free trip Hurry, this offer ends today"
+spam,"Exclusive deal just for you - Special offer, buy one get one free. Win a free phone, click now http://promo-deals.xyz/c unsubscribe below"
+spam,Final notice Your package could delivered. a small fee at http://promo-deals.xyz/c release your free See attached
+ham,"Meeting moved to 4:45 pm - Hi team, the statistics project meeting is now at 4:45 pm on Friday in room 305. Please bring your notes. About the offer question, we can talk later."
+ham,Dinner tonight - Mom said dinner is at 8:30 tonight. Can you pick up some bread on your way home?
+ham,Group presentation - Our statistics presentation is on Tuesday. Let us meet at 8:30 to practice once more.
+spam,HAVE WON Congratulations winner! the now to claim before it expires http://promo-deals.xyz/c Please review
+ham,Draft attached - Please find the draft of our data mining report attached. Send me your edits by Friday. Best regards
+ham,Group presentation - Our machine learning presentation is on Thursday. Let us meet at 6:30 pm to practice once more. No need to worry about the password issue.
+ham,"Meeting moved to 12:15 - Hi team, the database project meeting is now at 12:15 on Monday in room B12. Please bring your notes. About the limited question, we can talk later."
+spam,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Friday.
+ham,"Meeting moved to 4:45 pm - Hi team, the statistics project meeting is now at 4:45 pm on Monday in room 201. Please bring your notes."
+spam,"Get a loan today - Bad credit? No problem! Instant cash loan up to $3,000 approved in minutes. Apply now http://bit.ly/a1b2"
+ham,"Late for class - Sorry, I will be late to the database class today because of the bus. Please save me a seat."
+spam,"Lose weight fast - Amazing new pill, lose 10 kg in a week, guaranteed. Order today and get 90% off http://promo-deals.xyz/c Hurry, this offer ends today"
+ham,"Reminder: office hours - My office hours this week are on Wednesday from 8:30. Bring your questions about the machine learning homework. About the offer question, we can talk later."
+ham,Exam schedule - The calculus exam will be held on Tuesday at 8:30 in room B12. Please arrive ten minutes early.
+ham,Thank you - Thanks for your help with the database homework yesterday. It really helped me understand the topic.
+ham,Notes from today - Attached are my notes from the web design lecture. Let me know if I missed anything. The click thing is sorted now.
+ham,"Meeting moved to 8:30 - Hi team, the machine learning project meeting is now at 8:30 on Monday in room 305. Please bring your notes. Cheers No need to worry about the free issue."
+ham,Dinner tonight - Mom said dinner is at 8:30 tonight. Can you pick up some bread on your way home? The order thing is sorted now.
+ham,"Assignment 4 feedback - Hi, I have marked your machine learning assignment. Please see me after class on Friday if you have questions."
+ham,"Project update - We finished the statistics data cleaning today. Next step is to train the model, I will share the notebook tomorrow. Best regards"
+ham,"Team schedule for Friday - Here is the plan for Friday: standup at 6:30 pm, code review after lunch, and a short demo at the end of the day."
+ham,"Assignment 8 feedback - Hi, I have marked your database assignment. Please see me after class on Tuesday if you have questions."
+ham,Lunch on Wednesday? - Are you free for lunch around 6:30 pm? I was thinking of the cafe near the library.
+spam,"Congratulations, you selected are lucky winner of a free with details claim your Hurry, this offer today See attached"
+ham,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Wednesday. The limited thing is sorted now.
+ham,"Team schedule for Thursday - Here is the plan for Thursday: standup at 2:00 pm, code review after lunch, and a short demo at the end of the day."
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the calculus script when you have time? No need to worry about the password issue.
+ham,Notes from today - Attached are my notes from the data mining lecture. Let me know if I missed anything.
+ham,"Project update - We finished the networking data cleaning today. Next step is to train the model, I will share the notebook tomorrow."
+spam,Thank you - Thanks for your help with the machine learning homework yesterday. It really helped me understand the topic. No need to worry about the free issue.
+ham,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Tuesday.
+spam,"Get a loan today - Bad credit? No problem! Instant cash loan up to $3,000 approved in minutes. Apply now http://promo-deals.xyz/c"
+ham,Dinner tonight - Mom said dinner is at 6:30 pm tonight. Can you pick up some bread on your way home? Best regards The free thing is sorted now.
+ham,"Assignment 1 feedback - Hi, I have marked your web design assignment. Please see me after class on Friday if you have questions. Cheers"
+ham,Thank you - Thanks for your help with the networking homework yesterday. It really helped me understand the topic.
+ham,"Seminar invitation - You are invited to the machine learning seminar on Friday at 8:30. Coffee will be served in room 305. About the urgent question, we can talk later."
+ham,Make $600 a day from home - Work from home and earn easy money. No experience needed. Sign up now http://promo-deals.xyz/c
+spam,gift card Claim your gift today. purchase here http://win-prize.biz/x Please review
+spam,"Team schedule for Monday - Here is the plan for Monday: standup at 2:00 pm, code review after lunch, and a short demo at the end of the day. Let me know No need to worry about the account issue."
+ham,"Library book due - Your book on calculus is due on Tuesday. Please return or renew it at the front desk. About the account question, we can talk later."
+spam,YOU HAVE WON - Congratulations winner! the before it expires http://promo-deals.xyz/c Regards
+spam,FREE gift card - Claim your FREE $10 gift card today. No purchase necessary. Click here http://win-prize.biz/x
+ham,"Notes from today - Attached are my notes from the web design lecture. Let me know if I missed anything. Let me know About the password question, we can talk later."
+ham,Seminar invitation - You are invited to the statistics seminar on Friday at 10:00. Coffee will be served in room 201. No need to worry about the limited issue.
+ham,Reminder: office hours - My office hours this week are on Friday from 8:30. Bring your questions about the statistics homework.
+ham,"Reminder: office hours - My office hours this week are on Monday from 10:00. Bring your questions about the calculus homework. About the account question, we can talk later."
+ham,"Book sale - There is a book sale at the campus store on Friday, 50% off textbooks. Want to go together?"
+ham,"Team schedule for Wednesday - Here is the plan for Wednesday: standup at 8:30, code review after lunch, and a short demo at the end of the day. About the order question, we can talk later."
+ham,Thank you - Thanks for your help with the statistics homework yesterday. It really helped me understand the topic.
+ham,"Late for class - Sorry, I will be late to the statistics class today because of the bus. Please save me a seat."
+ham,"Late for class - Sorry, I will be late to the web design class today because of the bus. Please save me a seat."
+ham,"Assignment 9 feedback - Hi, I have marked your data mining assignment. Please see me after class on Monday if you have questions. Thanks"
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Monday.
+ham,Seminar invitation - You are invited to the data mining seminar on Friday at 2:00 pm. Coffee will be served in room B12. The limited thing is sorted now.
+ham,"Meeting moved to 10:00 - Hi team, the machine learning project meeting is now at 10:00 on Tuesday in room 305. Please bring your notes. No need to worry about the urgent issue."
+ham,Lunch on Tuesday? - Are you free for lunch around 6:30 pm? I was thinking of the cafe near the library.
+spam,- Claim FREE $50 gift card today. No necessary. Click here http://promo-deals.xyz/c Thanks
+ham,Reminder: office hours - My office hours this week are on Tuesday from 8:30. Bring your questions about the statistics homework. See you there No need to worry about the discount issue.
+ham,"Dinner tonight - Mom said dinner is at 10:00 tonight. Can you pick up some bread on your way home? About the limited question, we can talk later."
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Thursday.
+spam,Final notice - Your package could not be delivered. Pay a small fee at http://tinyurl.com/k9z to release your free item
+spam,just you - buy one one a click now http://bit.ly/a1b2 unsubscribe below Regards
+ham,"Assignment 6 feedback - Hi, I have marked your data mining assignment. Please see me after class on Wednesday if you have questions. Best regards"
+spam,Exclusive just - buy get one Win free now http://win-prize.biz/x unsubscribe below ends See attached
+spam,Lunch on Friday? - Are you free for lunch around 6:30 pm? I was thinking of the cafe near the library. See you there
+ham,Draft attached - Please find the draft of our web design report attached. Send me your edits by Tuesday.
+spam,"Get a loan today - Bad credit? No problem! Instant cash loan up to $9,000 approved in minutes. Apply now http://free-gift.top/go"
+ham,Notes from today - Attached are my notes from the calculus lecture. Let me know if I missed anything.
+ham,"Assignment 1 feedback - Hi, I have marked your machine learning assignment. Please see me after class on Wednesday if you have questions. Cheers The click thing is sorted now."
+spam,"Get a loan today - Bad credit? No problem! Instant cash loan up to $2,000 approved in minutes. Apply now http://bit.ly/a1b2"
+spam,URGENT: account suspended - Your bank account has been suspended. Verify your password immediately at http://bit.ly/a1b2 or lose access
+ham,Draft attached - Please find the draft of our web design report attached. Send me your edits by Friday.
+spam,Final - be delivered. Pay a small fee http://promo-deals.xyz/c release free item See attached
+ham,Draft attached - Please find the draft of our statistics report attached. Send me your edits by Tuesday.
+ham,Group presentation - Our web design presentation is on Friday. Let us meet at 8:30 to practice once more. The password thing is sorted now.
+ham,Lunch on Monday? - Are you free for lunch around 8:30? I was thinking of the cafe near the library. The account thing is sorted now.
+spam,"Congratulations, you are selected - You winner with your details claim free trip Please review"
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Wednesday.
+ham,"Bank statement - I transferred the money to your account today, please check and confirm."
+ham,"Meeting moved to 2:00 pm - Hi team, the calculus project meeting is now at 2:00 pm on Wednesday in room 114. Please bring your notes."
+spam,"Exclusive deal just for you - Special offer, buy one get one free. Win a free phone, click now http://bit.ly/a1b2 unsubscribe below"
+spam,"Get a loan today - Bad credit? No problem! Instant cash loan up to $6,000 approved in minutes. Apply now http://promo-deals.xyz/c"
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Wednesday.
+ham,Group presentation - Our networking presentation is on Tuesday. Let us meet at 10:00 to practice once more.
+ham,Group presentation - Our calculus presentation is on Tuesday. Let us meet at 12:15 to practice once more.
+ham,Library book due - Your book on calculus is due on Wednesday. Please return or renew it at the front desk. The free thing is sorted now.
+spam,"Double your bitcoin - Invest $900 today and get guaranteed returns. Act now, limited spots, click http://promo-deals.xyz/c"
+spam,$600 home from and money. No experience needed. Sign up now http://promo-deals.xyz/c Regards
+ham,Reminder: office hours - My office hours this week are on Monday from 10:00. Bring your questions about the web design homework.
+spam,"Double your bitcoin - get guaranteed returns. Act now, spots, click http://bit.ly/a1b2 Let me know"
+ham,"Late for class - Sorry, I will be late to the machine learning class today because of the bus. Please save me a seat."
+spam,"your bitcoin $200 today and get guaranteed returns. Act now, http://promo-deals.xyz/c Hurry, offer today Let me know"
+ham,"Reminder: office hours - My office hours this week are on Monday from 12:15. Bring your questions about the data mining homework. About the order question, we can talk later."
+ham,"Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Friday. Let me know About the winner question, we can talk later."
+ham,Group presentation - Our data mining presentation is on Wednesday. Let us meet at 8:30 to practice once more.
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the calculus script when you have time?
+ham,"Assignment 3 feedback - Hi, I have marked your data mining assignment. Please see me after class on Friday if you have questions."
+spam,"Double your bitcoin - Invest $100 today and get guaranteed returns. Act now, limited spots, click http://promo-deals.xyz/c Hurry, this offer ends today"
+ham,Library book due - Your book on statistics is due on Wednesday. Please return or renew it at the front desk.
+ham,Thank you - Thanks for your help with the data mining homework yesterday. It really helped me understand the topic. The click thing is sorted now.
+spam,"Re: your payment - Your credit card was charged $2,700. If this was not you, confirm your account details now http://bit.ly/a1b2"
+spam,"Double your bitcoin - Invest $400 today and get guaranteed returns. Act now, limited spots, click http://tinyurl.com/k9z"
+ham,Dinner tonight - Mom said dinner is at 6:30 pm tonight. Can you pick up some bread on your way home? Cheers The winner thing is sorted now.
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Tuesday.
+ham,"Project update - We finished the machine learning data cleaning today. Next step is to train the model, I will share the notebook tomorrow. No need to worry about the click issue."
+ham,Library book due - Your book on machine learning is due on Wednesday. Please return or renew it at the front desk.
+ham,Reminder: office hours - My office hours this week are on Monday from 2:00 pm. Bring your questions about the machine learning homework. See you there
+ham,Lunch on Thursday? - Are you free for lunch around 10:00? I was thinking of the cafe near the library. No need to worry about the account issue.
+spam,"Congratulations, you are selected - You are our lucky winner of a free vacation. Reply with your details to claim your free trip"
+ham,Dinner tonight - Mom said dinner is at 2:00 pm tonight. Can you pick up some bread on your way home? The winner thing is sorted now.
+spam,"just you Special offer, one get a free phone, click now http://tinyurl.com/k9z unsubscribe below Please review"
+spam,"Re: your - credit card was charged $1,500. this was you, account details now http://bit.ly/a1b2 Thanks"
+spam,"Exclusive deal just for you - Special offer, buy one get one free. Win a free phone, click now http://tinyurl.com/k9z unsubscribe below"
+spam,"Double your bitcoin - Invest $500 today and get guaranteed returns. Act now, limited spots, click http://free-gift.top/go"
+ham,"Assignment 1 feedback - Hi, I have marked your database assignment. Please see me after class on Wednesday if you have questions. The urgent thing is sorted now."
+spam,Final notice Your package not be delivered. a at http://free-gift.top/go release your free item Thanks
+ham,"HAVE WON $4,000,000!!! - winner! Click the link now to claim your prize before it http://win-prize.biz/x Hurry, this offer ends today See attached"
+ham,Exam schedule - The networking exam will be held on Thursday at 2:00 pm in room 201. Please arrive ten minutes early.
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Tuesday.
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Friday.
+spam,"Exclusive just you - buy one get free. Win a free phone, click now http://win-prize.biz/x unsubscribe below Hurry, this offer today Thanks"
+ham,"Meeting moved to 4:45 pm - Hi team, the networking project meeting is now at 4:45 pm on Thursday in room A7. Please bring your notes. Let me know"
+spam,"Get a loan today - Bad credit? No problem! Instant cash loan up to $4,000 approved in minutes. Apply now http://bit.ly/a1b2 Hurry, this offer ends today"
+spam,"90% OFF everything - Limited time offer! Buy cheap watches and pills at 90% discount. Order now http://tinyurl.com/k9z Hurry, this offer ends today"
+ham,"Assignment 4 feedback - Hi, I have marked your web design assignment. Please see me after class on Wednesday if you have questions."
+spam,Final notice - package not be Pay a small http://free-gift.top/go release your free Please review
+ham,"Team schedule for Tuesday - Here is the plan for Tuesday: standup at 10:00, code review after lunch, and a short demo at the end of the day."
+spam,Make $100 a day from home - Work from home and earn easy money. No experience needed. Sign up now http://bit.ly/a1b2
+ham,Reminder: office hours - My office hours this week are on Wednesday from 12:15. Bring your questions about the statistics homework.
+spam,"Double your bitcoin - get Act now, limited spots, click http://promo-deals.xyz/c offer Please review"
+ham,Free on Thursday? - I am free on Thursday afternoon if you want to go over the database homework.
+ham,Lunch on Tuesday? - Are you free for lunch around 10:00? I was thinking of the cafe near the library.
+ham,"Late for class - Sorry, I will be late to the data mining class today because of the bus. Please save me a seat. Thanks"
+spam,account Your bank account has been suspended. Verify password immediately at http://free-gift.top/go lose access this today Please review
+ham,"Congratulations, you are selected - You are our lucky winner of a free vacation. Reply with your details to claim your free trip"
+ham,Draft attached - Please find the draft of our statistics report attached. Send me your edits by Thursday.
+spam,Make $500 a day from home - Work from home and earn easy money. No experience needed. Sign up now http://free-gift.top/go
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the machine learning script when you have time?
+ham,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Wednesday.
+ham,"Team schedule for Friday - Here is the plan for Friday: standup at 10:00, code review after lunch, and a short demo at the end of the day."
+spam,OFF everything Limited watches discount. Order now http://win-prize.biz/x See attached
+spam,Group presentation - Our database presentation is on Tuesday. Let us meet at 8:30 to practice once more.
+ham,"Assignment 5 feedback - Hi, I have marked your web design assignment. Please see me after class on Thursday if you have questions. The winner thing is sorted now."
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the calculus script when you have time?
+ham,"Team schedule for Monday - Here is the plan for Monday: standup at 8:30, code review after lunch, and a short demo at the end of the day."
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Friday.
+ham,"Can you review my code? - I pushed my changes to the repository. Could you look at the statistics script when you have time? About the click question, we can talk later."
+ham,"Project update - We finished the web design data cleaning today. Next step is to train the model, I will share the notebook tomorrow."
+spam,Make $900 day from home Work from home earn money. experience Sign up now http://free-gift.top/go Thanks
+spam,90% OFF everything - Limited time offer! Buy cheap watches and pills at 90% discount. Order now http://bit.ly/a1b2
+ham,Reminder: office hours - My office hours this week are on Tuesday from 12:15. Bring your questions about the data mining homework. No need to worry about the password issue.
+spam,URGENT: account suspended - Your bank account has been suspended. Verify your password immediately at http://free-gift.top/go or lose access
+ham,"Assignment 8 feedback - Hi, I have marked your networking assignment. Please see me after class on Friday if you have questions. About the winner question, we can talk later."
+ham,Lunch on Monday? - Are you free for lunch around 10:00? I was thinking of the cafe near the library.
+ham,Notes from today - Attached are my notes from the calculus lecture. Let me know if I missed anything.
+spam,"Meeting moved to 2:00 pm - Hi team, the data mining project meeting is now at 2:00 pm on Friday in room B12. Please bring your notes. See you there"
+ham,Seminar invitation - You are invited to the statistics seminar on Monday at 2:00 pm. Coffee will be served in room 201. Let me know
+ham,"Meeting moved to 4:45 pm - Hi team, the networking project meeting is now at 4:45 pm on Friday in room A7. Please bring your notes. The urgent thing is sorted now."
+ham,"Assignment 4 feedback - Hi, I have marked your web design assignment. Please see me after class on Thursday if you have questions. Let me know"
+ham,"Late for class - Sorry, I will be late to the web design class today because of the bus. Please save me a seat."
+ham,Notes from today - Attached are my notes from the machine learning lecture. Let me know if I missed anything. Cheers
+ham,Reminder: office hours - My office hours this week are on Friday from 6:30 pm. Bring your questions about the database homework.
+ham,"Team schedule for Wednesday - Here is the plan for Wednesday: standup at 2:00 pm, code review after lunch, and a short demo at the end of the day."
+ham,Library book due - Your book on machine learning is due on Wednesday. Please return or renew it at the front desk.
+spam,"YOU HAVE WON $9,000,000!!! - Congratulations winner! Click the link now to claim your prize before it expires http://tinyurl.com/k9z"
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Wednesday. The password thing is sorted now.
+ham,"Project update - We finished the statistics data cleaning today. Next step is to train the model, I will share the notebook tomorrow."
+ham,"Assignment 3 feedback - Hi, I have marked your networking assignment. Please see me after class on Monday if you have questions. No need to worry about the free issue."
+ham,"Late for class - Sorry, I will be late to the calculus class today because of the bus. Please save me a seat."
+ham,"Dinner tonight - Mom said dinner is at 8:30 tonight. Can you pick up some bread on your way home? About the click question, we can talk later."
+spam,"YOU $7,000,000!!! Congratulations winner! the now claim your prize before it expires http://tinyurl.com/k9z Let me know"
+ham,"Reminder: office hours - My office hours this week are on Wednesday from 8:30. Bring your questions about the web design homework. About the order question, we can talk later."
+spam,Make $700 a day from home - Work from home and earn easy money. No experience needed. Sign up now http://promo-deals.xyz/c
+spam,"you are selected - are winner of free vacation. your trip Hurry, ends See attached"
+ham,Reminder: office hours - My office hours this week are on Thursday from 10:00. Bring your questions about the networking homework. Let me know
+ham,"Team schedule for Wednesday - Here is the plan for Wednesday: standup at 12:15, code review after lunch, and a short demo at the end of the day."
+ham,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Friday.
+ham,"Late for class - Sorry, I will be late to the networking class today because of the bus. Please save me a seat."
+ham,Thank you - Thanks for your help with the statistics homework yesterday. It really helped me understand the topic.
+spam,"Double your bitcoin - Invest get guaranteed returns. now, limited http://bit.ly/a1b2 Hurry, this offer ends today See attached"
+spam,Exam schedule - The calculus exam will be held on Monday at 8:30 in room 114. Please arrive ten minutes early.
+ham,Notes from today - Attached are my notes from the statistics lecture. Let me know if I missed anything.
+ham,Group presentation - Our networking presentation is on Thursday. Let us meet at 6:30 pm to practice once more.
+ham,Library book due - Your book on machine learning is due on Wednesday. Please return or renew it at the front desk.
+ham,Notes from today - Attached are my notes from the machine learning lecture. Let me know if I missed anything.
+ham,Draft attached - Please find the draft of our web design report attached. Send me your edits by Monday. Thanks
+ham,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Thursday.
+ham,"Team schedule for Thursday - Here is the plan for Thursday: standup at 2:00 pm, code review after lunch, and a short demo at the end of the day. Let me know"
+ham,Can you review my code? - I pushed my changes to the repository. Could you look at the web design script when you have time? Best regards No need to worry about the order issue.
+spam,"Congratulations, are our lucky winner of a free vacation. with claim your trip See attached"
+spam,Notes from today - Attached are my notes from the data mining lecture. Let me know if I missed anything.
+ham,"Notes from today - Attached are my notes from the machine learning lecture. Let me know if I missed anything. About the click question, we can talk later."
+ham,"Meeting moved to 8:30 - Hi team, the networking project meeting is now at 8:30 on Wednesday in room 201. Please bring your notes."
+ham,Lunch on Friday? - Are you free for lunch around 2:00 pm? I was thinking of the cafe near the library.
+ham,Seminar invitation - You are invited to the database seminar on Wednesday at 2:00 pm. Coffee will be served in room 305.
+spam,"Re: your payment - Your credit card was charged $8,500. If this was not you, confirm your account details now http://free-gift.top/go Hurry, this offer ends today"
+ham,"Meeting moved to 2:00 pm - Hi team, the statistics project meeting is now at 2:00 pm on Friday in room 201. Please bring your notes."
+spam,"YOU HAVE WON $3,000,000!!! - Congratulations winner! Click the link now to claim your prize before it expires http://promo-deals.xyz/c"
+ham,"Project update - We finished the statistics data cleaning today. Next step is to train the model, I will share the notebook tomorrow."
+ham,Group presentation - Our networking presentation is on Thursday. Let us meet at 12:15 to practice once more.
+ham,Dinner tonight - Mom said dinner is at 4:45 pm tonight. Can you pick up some bread on your way home?
+ham,"Meeting moved to 4:45 pm - Hi team, the calculus project meeting is now at 4:45 pm on Wednesday in room 201. Please bring your notes. About the offer question, we can talk later."
+ham,"Meeting moved to 6:30 pm - Hi team, the web design project meeting is now at 6:30 pm on Monday in room 114. Please bring your notes. Thanks"
+ham,Exam schedule - The statistics exam will be held on Thursday at 6:30 pm in room A7. Please arrive ten minutes early.
+ham,Library book due - Your book on data mining is due on Tuesday. Please return or renew it at the front desk. The password thing is sorted now.
+ham,"Meeting moved to 12:15 - Hi team, the calculus project meeting is now at 12:15 on Wednesday in room B12. Please bring your notes."
+ham,"Meeting moved to 8:30 - Hi team, the networking project meeting is now at 8:30 on Tuesday in room 305. Please bring your notes. Thanks"
+ham,Re: lab report - Thanks for sending the report. I will read it tonight and send comments before Friday.
+spam,card Claim $25 today. necessary. here http://free-gift.top/go Thanks
+ham,"Late for class - Sorry, I will be late to the statistics class today because of the bus. Please save me a seat."
+spam,"Re: your payment - Your credit card was charged $8,500. If this was not you, confirm your account details now http://bit.ly/a1b2"
+ham,HAVE - Congratulations Click to claim your prize before it expires http://promo-deals.xyz/c See attached
+ham,Thank you - Thanks for your help with the networking homework yesterday. It really helped me understand the topic. The free thing is sorted now.
+ham,Happy birthday - Wishing you a very happy birthday! Let us have cake together after class on Tuesday.
+spam,"Congratulations, you are selected - You are our lucky winner of a free vacation. Reply with your details to claim your free trip"
+spam,"Lose weight fast - Amazing new pill, lose 10 kg in a week, guaranteed. Order today and get 70% off http://free-gift.top/go"
